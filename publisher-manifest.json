@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "d821be367743e6b45e6bd13d",
+  "owner": "kcmgexnmk",
+  "repo": "page-114b47410e8484ab49701baf",
+  "title": "西山居",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "114b47410e8484ab49701baf",
+      "a": "西山居",
+      "b": "",
+      "entity": "西山居",
+      "brand": "西山居",
+      "separator": "",
+      "path": "index.html",
+      "hash": "4a330eb112a99d52202b230cb85121d8986566ab9694c8e3bc5b9bfe55550cd4",
+      "content": {
+        "keyword1": "西山居",
+        "keyword2": "",
+        "primary_entity": "西山居",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "西山居致力于打造纯粹的国产武侠游戏世界。了解剑侠情缘系列经典作品、最新动态与官方服务。",
+          "AI_DESCRIPTION": "西山居致力于打造纯粹的国产武侠游戏世界。了解剑侠情缘系列经典作品、最新动态与官方服务。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n:root {--bg-color: #f7f4f0;--panel-bg: #fffbf7;--text-main: #3d1c24;--text-muted: #7a5c63;--accent: #801a2b;--accent-light: #a83246;--border-color: #3d1c24}\n\n* {box-sizing: border-box;margin: 0;padding: 0}\n\nbody {background-color: var(--bg-color);color: var(--text-main);font-family: system-ui, -apple-system, sans-serif;line-height: 1.7;display: flex;min-height: 100vh}\n\naside.sidebar {width: 240px;background-color: var(--panel-bg);border-right: 3px solid var(--border-color);padding: 2.5rem 1.5rem;position: fixed;top: 0;bottom: 0;left: 0;display: flex;flex-direction: column;justify-content: space-between;z-index: 10}\n\naside.sidebar .brand-title {font-size: 1.5rem;font-weight: 900;color: var(--accent);margin-bottom: 2rem;letter-spacing: 0.1rem}\n\naside.sidebar nav ul {list-style: none;display: flex;flex-direction: column;gap: 1rem}\n\naside.sidebar nav a {text-decoration: none;color: var(--text-main);font-weight: 600;font-size: 0.95rem;transition: color 0.2s;display: inline-block}\n\naside.sidebar nav a:hover {color: var(--accent);transform: translateX(4px)}\n\naside.sidebar .sidebar-footer {font-size: 0.8rem;color: var(--text-muted);border-top: 2px solid var(--border-color);padding-top: 1rem}\n\nmain.content {margin-left: 240px;flex: 1;padding: 4rem 3rem;max-width: 1100px}\n\n@media (max-width: 768px) {\n  body {flex-direction: column}\n  aside.sidebar {position: relative;width: 100%;border-right: none;border-bottom: 3px solid var(--border-color);padding: 1.5rem}\n  main.content {margin-left: 0;padding: 2rem 1.5rem}\n}\n\nsection {margin-bottom: 5rem}\n\nh1 {font-size: 2.8rem;font-weight: 900;color: var(--accent);margin-bottom: 1.5rem;line-height: 1.2}\n\nh2 {font-size: 1.8rem;font-weight: 800;color: var(--accent);margin-bottom: 1.5rem;border-bottom: 3px solid var(--border-color);padding-bottom: 0.5rem;display: inline-block}\n\nh3 {font-size: 1.2rem;font-weight: 700;margin-bottom: 0.5rem;color: var(--text-main)}\n\np {margin-bottom: 1rem;color: var(--text-muted);font-size: 1rem}\n\n.timeline {position: relative;padding-left: 2rem;border-left: 3px solid var(--border-color);margin-top: 2rem}\n\n.timeline-item {position: relative;margin-bottom: 2.5rem}\n\n.timeline-item::before {content: '';position: absolute;left: calc(-2rem - 8px);top: 6px;width: 13px;height: 13px;background-color: var(--panel-bg);border: 3px solid var(--border-color)}\n\n.card {background-color: var(--panel-bg);border: 3px solid var(--border-color);padding: 2rem;margin-bottom: 1.5rem;box-shadow: 6px 6px 0px var(--border-color)}\n\n.plans-staircase {display: flex;flex-direction: column;gap: 2rem;margin-top: 2rem}\n\n.plan-step {background-color: var(--panel-bg);border: 3px solid var(--border-color);padding: 2rem;box-shadow: 6px 6px 0px var(--border-color);transition: transform 0.2s}\n\n.plan-step:nth-child(1) {margin-left: 0}\n.plan-step:nth-child(2) {margin-left: 2rem}\n.plan-step:nth-child(3) {margin-left: 4rem}\n\n@media (max-width: 900px) {\n  .plan-step:nth-child(1),\n  .plan-step:nth-child(2),\n  .plan-step:nth-child(3) {margin-left: 0}\n}\n\n.plan-step.featured {background-color: #fff4f5;border-color: var(--accent)}\n\n.price {font-size: 1.8rem;font-weight: 900;color: var(--accent);margin: 1rem 0}\n\nul.features-list {list-style: none;margin: 1rem 0}\n\nul.features-list li {padding: 0.3rem 0;font-size: 0.95rem;color: var(--text-main);position: relative;padding-left: 1.5rem}\n\nul.features-list li::before {content: '✓';position: absolute;left: 0;color: var(--accent);font-weight: bold}\n\n.btn {display: inline-block;background-color: var(--accent);color: #fffbf7;padding: 0.8rem 1.8rem;text-decoration: none;font-weight: 700;border: 2px solid var(--border-color);box-shadow: 3px 3px 0px var(--border-color);margin-top: 1rem}\n\n.btn:hover {background-color: var(--accent-light)}\n\n.faq-group {margin-bottom: 2rem}\n\n.faq-item {background-color: var(--panel-bg);border: 3px solid var(--border-color);padding: 1.5rem;margin-bottom: 1rem;box-shadow: 4px 4px 0px var(--border-color)}\n\n.faq-item h4 {font-size: 1.1rem;color: var(--accent);margin-bottom: 0.5rem}\n</style><aside class=\"sidebar\">\n  <div>\n    <div class=\"brand-title\">西山居</div>\n    <nav>\n      <ul>\n        <li><a href=\"#hero\">品牌溯源</a></li>\n        <li><a href=\"#about\">关于我们</a></li>\n        <li><a href=\"#services\">精选作品</a></li>\n        <li><a href=\"#faq\">常见问题</a></li>\n      </ul>\n    </nav>\n  </div>\n  <div class=\"sidebar-footer\">\n    <p>© 西山居工作室<br>江湖路远，同行有你</p>\n  </div>\n</aside>\n\n<main class=\"content\">\n  <section id=\"hero\">\n    <h1>西山居</h1>\n    <p>嘿！很高兴能在这里和你聊聊西山居。如果你也是伴随着国产武侠游戏一路走来的老朋友，或者刚刚踏入这片江湖的新侠客，这里记录着我们一路走来的点点滴滴。让我们顺着时间的足迹，一起回看那些年感动过我们的侠骨柔情吧。</p>\n    \n    <div class=\"timeline\">\n      <div class=\"timeline-item\">\n        <h3>1995年：梦想的起点</h3>\n        <p>我们在珠海成立了工作室，几个热爱游戏的大男孩，揣着对武侠世界的无限憧憬，开始了最初的独立探索。</p>\n      </div>\n      <div class=\"timeline-item\">\n        <h3>1997年：《剑侠情缘》问世</h3>\n        <p>初代作品横空出世，带着浓郁的中国风与悲壮深情的江湖叙事，在无数玩家心中种下了第一颗武侠的种子。</p>\n      </div>\n      <div class=\"timeline-item\">\n        <h3>2003年：迈入网游时代</h3>\n        <p>《剑侠情缘网络版》开启了万人同服的江湖时代，让玩家真正体验到了与志同道合的侠友并肩作战的快意恩仇。</p>\n      </div>\n      <div class=\"timeline-item\">\n        <h3>当下与未来：坚守匠心</h3>\n        <p>从单机到网游再到移动端，我们始终没有忘记最初的那份感动。每一次技术的迭代，都是为了让江湖更加真实细腻。</p>\n      </div>\n    </div>\n  </section>\n\n  <section id=\"about\" class=\"card\">\n    <h2>关于西山居的朋友圈</h2>\n    <p>嗨，朋友！我们是一群把爱好变成事业的家伙。对我们而言，游戏不只是代码和贴图，而是一个个有血有肉、能够呼吸的江湖世界。</p>\n    <p>在这个快节奏的时代，我们依然愿意花大量的时间去打磨一段剧情、雕琢一首配乐，只为了当你在深夜打开游戏时，能卸下白日的疲惫，重新找回那份最初的侠义与感动。很高兴能和你在茫茫人海中通过这些作品相遇。</p>\n  </section>\n\n  <section id=\"services\">\n    <h2>经典作品与服务指南</h2>\n    <p>来看看我们为你准备的江湖通行方案吧！无论你是想重温单机剧情，还是想在网络世界中快意恩仇，总有一款适合现在的你。</p>\n    \n    <div class=\"plans-staircase\">\n      <div class=\"plan-step\">\n        <h3>基础版：单机与轻量体验</h3>\n        <div class=\"price\">¥15/月</div>\n        <p>适合想随时随地重温经典单机情怀、享受轻松休闲玩法的轻度侠客。</p>\n        <ul class=\"features-list\">\n          <li>每月 100GB 专属更新与下载流量</li>\n          <li>支持 3 台设备随时切换同步</li>\n          <li>解锁基础社区与单机存档云同步</li>\n          <li>普通线路与日常活动参与资格</li>\n        </ul>\n        <a href=\"#\" class=\"btn\">选择基础版</a>\n      </div>\n\n      <div class=\"plan-step featured\">\n        <h3>旗舰版：沉浸式江湖行</h3>\n        <div class=\"price\">¥35/月</div>\n        <p>最受老玩家欢迎的选择！畅享全功能网络江湖与极致的视听流畅体验。</p>\n        <ul class=\"features-list\">\n          <li>每月 300GB 高速网络流量</li>\n          <li>支持 5 台设备同时在线畅玩</li>\n          <li>全节点原生游戏加速与专属优化</li>\n          <li>IPLC 专线游戏联机低延迟保障</li>\n          <li>7x24 小时专属客服与优先工单支持</li>\n        </ul>\n        <a href=\"#\" class=\"btn\">选择旗舰版</a>\n      </div>\n\n      <div class=\"plan-step\">\n        <h3>团队版：帮会与深度定制</h3>\n        <div class=\"price\">¥85/月</div>\n        <p>为帮会、家族或深度硬核玩家打造，提供顶级带宽与尊贵定制服务。</p>\n        <ul class=\"features-list\">\n          <li>每月 1000GB 极速大流量支持</li>\n          <li>支持 20 台设备同时在线</li>\n          <li>VIP 专属高带宽极速节点</li>\n          <li>支持帮会专属服务器及路由定制</li>\n          <li>专属客户经理一对一贴心服务</li>\n        </ul>\n        <a href=\"#\" class=\"btn\">选择团队版</a>\n      </div>\n    </div>\n  </section>\n\n  <section id=\"faq\">\n    <h2>常见问题解答</h2>\n    <p>这里整理了一些朋友们经常问到的小问题，希望能帮到初来乍到的你。</p>\n\n    <div class=\"faq-group\">\n      <h3>关于江湖初体验</h3>\n      <div class=\"faq-item\">\n        <h4>我以前没玩过剑侠系列，现在入坑会难吗？</h4>\n        <p>完全不用担心哦！我们的每一部新作品都有着完善的新手引导和独立的故事线，哪怕是第一次接触武侠游戏的新朋友也能轻松上手，快来试试吧。</p>\n      </div>\n      <div class=\"faq-item\">\n        <h4>账号数据在不同设备之间可以互通吗？</h4>\n        <p>当然可以！只要登录你的官方账号，无论是电脑、平板还是手机，你的江湖足迹和存档都会实时同步，随时随地都能继续冒险。</p>\n      </div>\n    </div>\n\n    <div class=\"faq-group\">\n      <h3>关于服务与方案</h3>\n      <div class=\"faq-item\">\n        <h4>如果购买后发现不合适，支持调整吗？</h4>\n        <p>没问题的！如果在体验过程中遇到任何不习惯的地方，随时可以联系我们的客服小伙伴，我们会根据你的实际需求帮你寻找最合适的调整方案。</p>\n      </div>\n      <div class=\"faq-item\">\n        <h4>套餐到期后，我的游戏数据会丢失吗？</h4>\n        <p>请放心，你的核心角色数据和重要资产会永久为你妥善保存。续费后即可无缝衔接，继续你的江湖旅程。</p>\n      </div>\n    </div>\n  </section>\n</main>",
+          "hash": "8697a724f019253c555690b975a22a04f047ff83fb0917bbd6f0b7655ed1046d",
+          "seo": {
+            "title": "西山居 - 剑侠情缘系列游戏官方品牌与作品天地",
+            "keywords": "西山居,剑侠情缘,国产单机,武侠游戏,网络游戏,官方网站",
+            "description": "西山居致力于打造纯粹的国产武侠游戏世界。了解剑侠情缘系列经典作品、最新动态与官方服务。"
+          },
+          "provider": "grok",
+          "model": "gemini-3.7-flash",
+          "design": {
+            "no": "6157",
+            "hero": "6 纵向时间线引入",
+            "palette": "8 酒红配象牙白",
+            "nav": "2 左侧竖排目录",
+            "card": "2 粗描边直角",
+            "plans_view": "3 阶梯式递进排列",
+            "faq_view": "3 按主题分组",
+            "tone": "2 亲切的朋友式口吻",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "cnyikao.cn",
+    "host": "p-c0844309d7.cnyikao.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "37777dd60abb6e263c78151c3829a8a6ced65f0c0ea1e4c933316a23beb46d45",
+    "sitemap.xml": "4df3524178636ef5cb27bf6fb5332f6b3fa8f1793ebaea18b307135ba722227d",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "0cca8636b3be2b26739a61ea6e8c30a061cc54e82ba7d5167803c411a1266f9a",
+    "robots.txt": "213e425ff01f47f261682c9e92510688295126e7a3ebdae15305864207480099",
+    "ebd2340e93f41f6404d8df3124c10e4f.txt": "5909d3189d27a17ed7a716be5f1fd7ba26267330cf509b030320e7c0a7ccabcc"
+  },
+  "revision": "62a14cef1b805fc0c3af6253dfdb045e6133c0d992611adceb71bc671af3e873"
+}

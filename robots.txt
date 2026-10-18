@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-c0844309d7.cnyikao.cn/sitemap.xml
